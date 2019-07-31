@@ -1,6 +1,7 @@
 /*
 Creation: 10 June 2019
 Author:   David Porter
+Platform: SQL Server
 Purpose:
 When your sql databases do not shutdown properly you will potentially see them in the "Recoery Pending" mode.
 Under databases in SSMS you may see something like <database name>(Recovery Pending).
